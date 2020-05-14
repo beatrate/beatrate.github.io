@@ -5,12 +5,7 @@ permalink: /
 
 # Nikita Ivanov aka Beatrate
 
-
-## About me
-A Unity3D/C# programmer, love slice of life anime and cute things.
-I enjoy refactoring things and building games piece by piece.
-
-### Skills:
+### Stuff I do:
 * C#
 * Unity3D
 * Writing custom editor tools
