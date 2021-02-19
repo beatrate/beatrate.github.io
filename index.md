@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Nikita Ivanov aka Beatrate
+# Beatrate
 
 ### Links & contacts
 [Github](https://github.com/beatrate "Github")
