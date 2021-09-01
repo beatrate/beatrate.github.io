@@ -3,6 +3,8 @@ layout: default
 permalink: /
 ---
 
+# Beatrate
+
 ### Links & contacts
 [Github](https://github.com/beatrate "Github")
 [Itch](https://beatrate.itch.io/ "Itch")
