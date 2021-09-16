@@ -24,6 +24,7 @@ Shoot me an email over at **inik4us (at) gmail.com**
 
 ### End of Days: Survival
 [App Store](https://apps.apple.com/us/app/end-of-days-survival/id1478121968)
+
 A card-based mobile game with RPG elements and branching stories.
 I was responsible for gameplay & UI programming.
 The project required creating quite a lot of custom UI components since the builtin layout components proved to be lacking when it comes to tricky responsive layouts.
