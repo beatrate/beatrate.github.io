@@ -37,7 +37,11 @@ The card game framework allowed authoring branching narrative embedded in cards 
         <video class="videogif" controls="false" allowfullscreen="false" muted="true" loop="true" autoplay="true">
             <source src="/assets/video/lighto.mp4" type="video/mp4">
         </video>
-        <h3>Color shader experiment</h3>
+        <h3>Shader experiment</h3>
+    </div>
+    <div class="showcase-slide">
+       <img src="/assets/img/light.png">
+       <h3>Shader experiment</h3>
     </div>
     <div class="showcase-slide">
         <video class="videogif" controls="false" allowfullscreen="false" muted="true" loop="true" autoplay="true">
