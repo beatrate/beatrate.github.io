@@ -65,5 +65,5 @@ Enhanced animation events for Unity's animator.
 [Link](https://github.com/beatrate/ReliableMecanimEvents "Github")
 
 ###  Animation Baker
-Utility for extraction editor only data from Animation Clips in Unity.
+Utility for extraction of editor only data from Animation Clips in Unity.
 [Link](https://github.com/beatrate/AnimationBaker "Github")
