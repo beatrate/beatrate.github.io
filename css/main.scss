@@ -11,7 +11,7 @@
 .showcase {
     display: grid;
     grid-template-rows: repeat(auto-fit, 340px);
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-gap: 10px;
 }
 
@@ -22,11 +22,13 @@
 }
 
 .videogif {
-    height: auto;
+    height: 310px;
     width: 100%;
+    object-fit: scale-down
 }
 
 .screenshot {
-    max-width: 100%;
-    height: auto;
+    height: 310px;
+    width: 100%;
+    object-fit: scale-down
 }

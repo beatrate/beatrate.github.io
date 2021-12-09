@@ -40,7 +40,7 @@ The card game framework allowed authoring branching narrative embedded in cards 
         <h3>Shader experiment</h3>
     </div>
     <div class="showcase-slide">
-       <img src="/assets/img/light.png">
+       <img src="/assets/img/light.png" class="screenshot">
        <h3>Shader experiment</h3>
     </div>
     <div class="showcase-slide">
@@ -51,7 +51,7 @@ The card game framework allowed authoring branching narrative embedded in cards 
     </div>
 
     <div class="showcase-slide">
-       <img src="/assets/img/ledge.png">
+       <img src="/assets/img/ledge.PNG" class="screenshot">
        <h3>Dying Light style runtime ledge detection with tilted ledges support</h3>
     </div>
 </div>
