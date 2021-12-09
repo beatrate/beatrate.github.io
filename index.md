@@ -49,9 +49,8 @@ The card game framework allowed authoring branching narrative embedded in cards 
         </video>
         <h3>VFX Graph rain with custom collisions not limited to screenspace depth buffer</h3>
     </div>
-
     <div class="showcase-slide">
-       <img src="/assets/img/ledge.png" class="screenshot">
+       <img src="/assets/img/detection.png" class="screenshot">
        <h3>Dying Light style runtime ledge detection with tilted ledges support</h3>
     </div>
 </div>
