@@ -16,7 +16,7 @@ Shoot me an email over at **inik4us (at) gmail.com**
 * Unity3D
 * Gameplay scripting
 * Editor tools
-* Shaders
+* Shaders: HLSL, Shader Graph
 * UI programming
 
 ## Projects
@@ -26,11 +26,33 @@ Shoot me an email over at **inik4us (at) gmail.com**
 [App Store](https://apps.apple.com/us/app/end-of-days-survival/id1478121968)
 
 A card-based mobile game with RPG elements and branching stories.
-I was responsible for gameplay & UI programming.
+Project included gameplay scripting, UI programming and tooling.
 The project required creating quite a lot of custom UI components since the builtin layout components proved to be lacking when it comes to tricky responsive layouts.
-I also worked on custom tools for authoring branching narrative embedded in cards with support for conditional choices, story variables and more.
+The card game framework allowed authoring branching narrative embedded in cards with support for conditional choices, story variables and more.
 
 ## Personal projects
+<hr>
+<div class="showcase">
+    <div class="showcase-slide">
+        <video class="videogif" controls="false" allowfullscreen="false" muted="true" loop="true" autoplay="true">
+            <source src="/assets/video/lighto.mp4" type="video/mp4">
+        </video>
+        <h3>Color shader experiment</h3>
+    </div>
+    <div class="showcase-slide">
+        <video class="videogif" controls="false" allowfullscreen="false" muted="true" loop="true" autoplay="true">
+            <source src="/assets/video/rainy.mp4" type="video/mp4">
+        </video>
+        <h3>VFX Graph rain with custom collisions not limited to screenspace depth buffer</h3>
+    </div>
+
+    <div class="showcase-slide">
+       <img src="/assets/img/ledge.png">
+       <h3>Dying Light style runtime ledge detection with tilted ledges support</h3>
+    </div>
+</div>
+<hr>
+
 ###  Snowdrop
 A simple static website generator written in C#, based on Liquid and Markdown.
 [Link](https://github.com/beatrate/Snowdrop "Github")
@@ -41,5 +63,4 @@ Enhanced animation events for Unity's animator.
 
 ###  Animation Baker
 Utility for extraction editor only data from Animation Clips in Unity.
-Hoping to experiment with Overgrowth style animation using it.
 [Link](https://github.com/beatrate/AnimationBaker "Github")

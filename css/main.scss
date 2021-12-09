@@ -8,9 +8,22 @@
     height: 120px;
   }
 
+.showcase {
+    display: grid;
+    grid-template-rows: repeat(auto-fit, 340px);
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-gap: 10px;
+}
+
+.showcase-slide {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
 .videogif {
-    max-width: 100%;
     height: auto;
+    width: 100%;
 }
 
 .screenshot {
