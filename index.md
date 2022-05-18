@@ -55,14 +55,10 @@ The card game framework allowed authoring branching narrative embedded in cards 
     </div>
     <div class="showcase-slide">
        <img src="https://img.itch.zone/aW1hZ2UvMTUzNTI2NC84OTU1MzExLnBuZw==/original/eqCnUm.png" class="screenshot">
-       <h3>3d platformer prototype (cats;portals on my itch.io)</h3>
+       <h3>cats;portals - a 3d platformer prototype <a href="https://beatrate.itch.io/catsportals">Link</a></h3>
     </div>
 </div>
 <hr>
-
-###  Snowdrop
-A simple static website generator written in C#, based on Liquid and Markdown.
-[Link](https://github.com/beatrate/Snowdrop "Github")
 
 ###  Reliable Mecanim Events
 Enhanced animation events for Unity's animator.
@@ -71,3 +67,16 @@ Enhanced animation events for Unity's animator.
 ###  Animation Baker
 Utility for extraction of editor only data from Animation Clips in Unity.
 [Link](https://github.com/beatrate/AnimationBaker "Github")
+
+### Quirky Save
+An automatic reflection based saving system.
+[Link](https://github.com/beatrate/QuirkySave "Github")
+
+### Kiwi Sprite
+A 3d sprite component for using sprite textures with regular mesh renderers. Supports multiple billboarding methods.
+Useful for 3d games mixing 3d models and billboarded sprites.
+[Link](https://github.com/beatrate/KiwiSprite "Github")
+
+### PeachFSM
+An in-progress Hierarchical Finite State Machine library for Unity inspired by hfsm2.
+[Link](https://github.com/beatrate/PeachFSM "Github")
