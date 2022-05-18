@@ -54,7 +54,7 @@ The card game framework allowed authoring branching narrative embedded in cards 
        <h3>Dying Light style runtime ledge detection with tilted ledges support</h3>
     </div>
     <div class="showcase-slide">
-       <img src="https://img.itch.zone/aW1hZ2UvMTUzNTI2NC84OTU1MzExLnBuZw==/347x500/r1Gyk4.png" class="screenshot">
+       <img src="https://img.itch.zone/aW1hZ2UvMTUzNTI2NC84OTU1MzExLnBuZw==/original/eqCnUm.png" class="screenshot">
        <h3>3d platformer prototype (cats;portals on my itch.io)</h3>
     </div>
 </div>
