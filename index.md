@@ -9,7 +9,7 @@ permalink: /
 [Github](https://github.com/beatrate "Github")
 [Itch](https://beatrate.itch.io/ "Itch")
 
-Shoot me an email over at **inik4us (at) gmail.com**
+Shoot me an email over at **redacted**
 
 ### Skills:
 * C#
