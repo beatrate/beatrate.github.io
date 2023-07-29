@@ -36,29 +36,6 @@ to graphics programming.
 * Blender
 
 ## Projects
-### End of Days: Survival
-<div class="screenshot-row">
-    {% for screenshot in page.endOfDaysScreenshots %}
-    <div class="screenshot-row-element">
-        <img src="{{ screenshot }}">
-    </div>
-    {% endfor %}
-</div>
-[App Store](https://apps.apple.com/us/app/end-of-days-survival/id1478121968)
-[Google Play](https://play.google.com/store/apps/details?id=com.BlackVoidStudios.EndOfDays)
-
-**End of Days: Survival** is a card-based game with **branching narrative** and **RPG elements**.
-
-I was the lead developer on the project and was responsible for **gameplay**, **tools** and **UI implementation**.
-
-I developed custom tools for card creation where a designer could freely **create new cards with no involvement from a programmer**.
-With these tools a designer can specify conditions for each random card appearance, set up card effects that affect player stats,
-randomize outcomes, give a new card to the player depending on player's choice.
-
-I developed a **conversion tool** from the old gameplay framework to the new one and **sped up the production** by removing the need to recreate all card gameplay settings manually.
-
-The project required **creating a lot of custom UI components** since the builtin layout components proved to be lacking when it comes to tricky responsive layouts.
-
 ### cats;portals
 <div class="screenshot-row">
     {% for screenshot in page.catsPortalsScreenshots %}
@@ -118,6 +95,28 @@ This approach with enough parameter tweaking has produced an acceptable result w
 The goal was reached and **game design setup has been optimized** since a game designer wouldn't need to do extra work for adding extra obstacles to an open map besides
 just dragging it onto the scene.
 
+### End of Days: Survival
+<div class="screenshot-row">
+    {% for screenshot in page.endOfDaysScreenshots %}
+    <div class="screenshot-row-element">
+        <img src="{{ screenshot }}">
+    </div>
+    {% endfor %}
+</div>
+[App Store](https://apps.apple.com/us/app/end-of-days-survival/id1478121968)
+[Google Play](https://play.google.com/store/apps/details?id=com.BlackVoidStudios.EndOfDays)
+
+**End of Days: Survival** is a card-based game with **branching narrative** and **RPG elements**.
+
+I was the lead developer on the project and was responsible for **gameplay**, **tools** and **UI implementation**.
+
+I developed custom tools for card creation where a designer could freely **create new cards with no involvement from a programmer**.
+With these tools a designer can specify conditions for each random card appearance, set up card effects that affect player stats,
+randomize outcomes, give a new card to the player depending on player's choice.
+
+I developed a **conversion tool** from the old gameplay framework to the new one and **sped up the production** by removing the need to recreate all card gameplay settings manually.
+
+The project required **creating a lot of custom UI components** since the builtin layout components proved to be lacking when it comes to tricky responsive layouts.
 
 ###  Reliable Mecanim Events
 [Github](https://github.com/beatrate/ReliableMecanimEvents "Github")
