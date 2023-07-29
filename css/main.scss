@@ -1,5 +1,4 @@
 ---
-#
 ---
 @import "base";
 
@@ -7,6 +6,18 @@
     width: 120px;
     height: 120px;
   }
+
+.screenshot-row {
+    display: flex;
+}
+
+.screenshot-row-element {
+    
+}
+
+.screenshot-row-element video {
+    width: 100%;
+}
 
 .showcase {
     display: grid;
