@@ -17,7 +17,7 @@ Github: [https://github.com/beatrate](https://github.com/beatrate)
 
 Itch: [https://beatrate.itch.io/](https://beatrate.itch.io/)
 
-## About me
+## About Me
 Hi! My name is Beatrisa and I'm a game developer. I've been working in gamedev since 2018.
 I'm a generalist Unity developer with experience in most areas of development from prototyping
 to graphics programming.
