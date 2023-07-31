@@ -10,6 +10,7 @@ catsPortalsScreenshots:
 ---
 
 # Beatrisa Ivanova aka Beatrate
+**Unity Developer**
 email: [beatrisa.ivanova.dev@gmail.com](mailto: beatrisa.ivanova.dev@gmail.com)
 
 Github: [https://github.com/beatrate](https://github.com/beatrate)
