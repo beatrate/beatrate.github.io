@@ -9,7 +9,7 @@ catsPortalsScreenshots:
     - "/assets/img/cats-portals.png"
 ---
 
-# Beatrisa Ivanova aka Beatrate
+# Beatrisa Ivanova
 **Unity Developer**
 
 email: [beatrisa.ivanova.dev@gmail.com](mailto: beatrisa.ivanova.dev@gmail.com)
