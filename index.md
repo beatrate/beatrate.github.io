@@ -9,17 +9,17 @@ catsPortalsScreenshots:
     - "/assets/img/cats-portals.png"
 ---
 
-# Beatrisa Ivanova
+# Beatrice May
 **Unity Developer**
 
-email: [beatrisa.ivanova.dev@gmail.com](mailto: beatrisa.ivanova.dev@gmail.com)
+email: [beatrice.may.dev@gmail.com](mailto: beatrice.may.dev@gmail.com)
 
 Github: [https://github.com/beatrate](https://github.com/beatrate)
 
 Itch: [https://beatrate.itch.io/](https://beatrate.itch.io/)
 
 ## About Me
-Hi! My name is Beatrisa and I'm a game developer. I've been working in gamedev since 2018.
+Hi! My name is Beatrice and I'm a game developer. I've been working in gamedev since 2018.
 I'm a generalist Unity developer with experience in most areas of development from prototyping
 to graphics programming.
 
